@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>games</key>
+	<array>
+		<dict>
+			<key>spritefile</key>
+			<string>pt_ddpicon.png</string>
+			<key>spriteframes</key>
+			<string>ccbResources/SpriteSheet_MainUI.plist</string>
+			<key>version</key>
+			<integer>1</integer>
+			<key>localversion</key>
+			<integer>0</integer>
+			<key>url</key>
+			<string>http://www.flashchannelgames.com/sites/default/files/crystalcraze.zip</string>
+			<key>size</key>
+			<integer>12515000</integer>
+			<key>name</key>
+			<string>crystalcraze</string>
+			<key>displayname</key>
+			<string>对对碰</string>
+		</dict>
+	</array>
+</dict>
+</plist>
